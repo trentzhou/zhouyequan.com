@@ -4,7 +4,7 @@ date: 2018-01-08T19:36:57+08:00
 lastmod: 2018-01-08T19:36:57+08:00
 draft: false
 keywords: []
-description: ""
+description: "怎样自己搭一个网站"
 tags: [经验]
 categories: []
 author: "周叶铨"
@@ -19,6 +19,9 @@ contentCopyright: false
 reward: false
 mathjax: false
 ---
+
+我想拥有一个自己的网站，该怎么操作呢？
+<!--more-->
 
 ## 我为什么要建这个网站？
 
