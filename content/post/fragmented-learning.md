@@ -5,8 +5,8 @@ lastmod: 2018-01-13T08:39:42+08:00
 draft: false
 keywords: ["学习"]
 description: "关于碎片化学习的一点思考"
-tags: []
-categories: ["经验"]
+tags: ["经验"]
+categories: []
 author: ""
 
 # You can also close(false) or open(true) something for this content.
