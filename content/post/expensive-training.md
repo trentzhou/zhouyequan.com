@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "公司培训"
 date: 2018-03-25T13:15:01+08:00
 draft: false
 keywords: ["学习"]
