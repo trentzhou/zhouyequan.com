@@ -2,7 +2,7 @@
 title: "死于36岁"
 date: 2018-05-28T10:37:41+08:00
 lastmod: 2018-05-28T10:37:41+08:00
-draft: true
+draft: false
 keywords: []
 description: "中年危机快到了"
 tags: []
