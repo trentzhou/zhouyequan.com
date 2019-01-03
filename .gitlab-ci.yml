@@ -5,10 +5,12 @@ stages:
 build:
   stage: build
   script:
-    - echo "Building"
+    - mkdir -p themes
+    - if [ ! -d themes/even ]; then git clone https://github.com/olOwOlo/hugo-theme-even themes/even; fi
+    - hugo
 
 publish:
   stage: distribute
   script:
-    - echo "Publish"
-    
+    - rm -rf $HOME/zhouyequan.com
+    - mv public $HOME/zhouyequan.com
