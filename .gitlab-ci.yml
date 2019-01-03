@@ -1,6 +1,5 @@
 stages:
   - build
-  - distribute
 
 build:
   stage: build
@@ -8,9 +7,5 @@ build:
     - mkdir -p themes
     - if [ ! -d themes/even ]; then git clone https://github.com/olOwOlo/hugo-theme-even themes/even; fi
     - hugo
-
-publish:
-  stage: distribute
-  script:
     - rm -rf $HOME/zhouyequan.com
     - mv public $HOME/zhouyequan.com
