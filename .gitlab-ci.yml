@@ -1,0 +1,14 @@
+stages:
+  - build
+  - distribute
+
+build:
+  stage: build
+  script:
+    - echo "Building"
+
+publish:
+  stage: distribute
+  script:
+    - echo "Publish"
+    
