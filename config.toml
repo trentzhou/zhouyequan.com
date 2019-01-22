@@ -40,7 +40,7 @@ copyright = "<a href='http://www.miitbeian.gov.cn/'>苏ICP备18000958号-1</a>" 
   name = "声音日记"
   weight = 20
   identifier = "audiolog"
-  url = "/alog/posts/"
+  url = "/alog/posts"
 [[menu.main]]
   name = "标签"
   weight = 30
