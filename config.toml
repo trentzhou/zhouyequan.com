@@ -37,6 +37,11 @@ copyright = "<a href='http://www.miitbeian.gov.cn/'>苏ICP备18000958号-1</a>" 
   identifier = "archives"
   url = "/post/"
 [[menu.main]]
+  name = "声音日记"
+  weight = 20
+  identifier = "archives"
+  url = "/alog/posts/"
+[[menu.main]]
   name = "标签"
   weight = 30
   identifier = "tags"

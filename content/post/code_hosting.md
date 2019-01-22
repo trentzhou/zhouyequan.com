@@ -47,7 +47,7 @@ mathjax: false
 
 跟github相比，腾讯云是价格便宜量又足。私有仓库、在线编辑、Jenkins pipeline它都有。反正该有的功能都有。
 
-## 阿里云 ## 
+## 阿里云
 
 阿里云当然也什么都有。他们的代码托管平台是 https://code.aliyun.com 。 我感觉这就是抄了一个gitlab。但是功能弱多了。不推荐。
 
